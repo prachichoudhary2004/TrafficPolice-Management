@@ -46,10 +46,10 @@
 		<!--header-start-->
 		<div class="container">
 			<figure class="logo animated fadeInDown delay-07s">
-				<a href="#"><img src="img/policelogo.png" alt=""></a>
+				<a href="#"><img src="img/police.png" alt=""></a>
 			</figure>
-			<h2 style="color: white;"><b>HARYANA  POLICE</b></h2>
-			<h1 class="animated fadeInDown delay-07s">WELCOME TO HARYANA TRAFFIC CONTROL</h1>
+			<h2 style="color: white;"><b>Bengaluru  POLICE</b></h2>
+			<h1 class="animated fadeInDown delay-07s">WELCOME TO Bengaluru TRAFFIC CONTROL</h1>
 			<ul class="we-create animated fadeInUp delay-1s">
 				<li><h2 class="text-info">Welcome :<?php echo $_SESSION['pname']; ?> </h2> </li>
 			</ul>
@@ -142,24 +142,22 @@ Locations on the cautionary traffic signs are also displayed such as schools, co
 	<!--main-section-end-->
 
 
-	<section class="main-section client-part" id="client">
+	<!-- <section class="main-section client-part" id="client">
 		<!--main-section client-part-start-->
 		<div class="container">
 			<b class="quote-right wow fadeInDown delay-03"><i class="fa fa-quote-right"></i></b>
 			<div class="row">
-				<div class="col-lg-12">
-					<h4 style="font-style: italic; color: white;"> HI I M SHUBHAM SINDHU . MAKER OF THIS TRAFFIC POLICE MANAGEMENT WEBSITE. THIS IS A MINI PROJECT OF DBMS</h4>
-				</div>
+				
 			</div>
 			<ul class="client wow fadeIn delay-05s">
 				<li><a href="#">
-            	<img src="img/sindhu.jpeg" height="120" width="120" alt="">
-                <h3>Shubham Sindhu</h3>
+            	<img src="" height="120" width="120" alt="">
+                <h3>Prachi</h3>
             </a></li>
 			</ul>
 		</div>
 	</section>
-	
+	 -->
 	<!--c-logo-part-end-->
 	<section class="main-section team" id="team">
 		<!--main-section team-start-->
@@ -170,25 +168,25 @@ Locations on the cautionary traffic signs are also displayed such as schools, co
 				<div class="team-leader-box">
 					<div class="team-leader wow fadeInDown delay-03s">
 						<div class="team-leader-shadow"><a href="#"></a></div>
-						<img src="img/rajesh.jpg" alt="">
+						<img src="ig" alt="">
 					</div>
-					<h3 class="wow fadeInDown delay-03s">Rajesh Rathore</h3>
+					<h3 class="wow fadeInDown delay-03s">A</h3>
 					<span class="wow fadeInDown delay-03s">Superientendent of Police</span>
 				</div>
 				<div class="team-leader-box">
 					<div class="team-leader  wow fadeInDown delay-06s">
 						<div class="team-leader-shadow"><a href="#"></a></div>
-						<img src="img/sindhu.jpeg" width="300" height="300" alt="">
+						<img src="imeg" width="300" height="300" alt="">
 					</div>
-					<h3 class="wow fadeInDown delay-06s">Shubham Sindhu</h3>
+					<h3 class="wow fadeInDown delay-06s">B</h3>
 					<span class="wow fadeInDown delay-06s">Director General of Police</span>
 				</div>
 				<div class="team-leader-box">
 					<div class="team-leader wow fadeInDown delay-09s">
 						<div class="team-leader-shadow"><a href="#"></a></div>
-						<img src="img/pushkar.jpeg" width="300" height="300" alt="">
+						<img src="img/g" width="300" height="300" alt="">
 					</div>
-					<h3 class="wow fadeInDown delay-09s">Pushkar Choudhary</h3>
+					<h3 class="wow fadeInDown delay-09s">C</h3>
 					<span class="wow fadeInDown delay-09s">Assistant Commissioner of Police</span>
 				</div>
 			</div>
@@ -220,7 +218,7 @@ Locations on the cautionary traffic signs are also displayed such as schools, co
 					</div>
 					<div class="contact-info-box email clearfix">
 						<h3><i class="fa fa-pencil"></i>email:</h3>
-						<span>shubhamsindhu2712@gmail.com</span>
+						<span>Prachi2712@gmail.com</span>
 					</div>
 					<div class="contact-info-box hours clearfix">
 						<h3><i class="fa fa-clock-o"></i>Hours:</h3>

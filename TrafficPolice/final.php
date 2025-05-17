@@ -50,9 +50,9 @@
 		<!--header-start-->
 		<div class="container">
 			<figure class="logo animated fadeInDown delay-07s">
-				<a href="#"><img src="img/policelogo.png" alt=""></a>
+				<a href="#"><img src="img/police.png" alt=""></a>
 			</figure>
-			<h2 style="color: white;"><b>HARYANA  POLICE</b></h2>
+			<h2 style="color: white;"><b>Bengaluru  POLICE</b></h2>
 			<div class="container mt-5 mb-5">
   	     <div class="card">
   	     	<div class="card-header bg-success">
@@ -171,7 +171,7 @@
 					</div>
 					<div class="contact-info-box email clearfix">
 						<h3><i class="fa fa-pencil"></i>email:</h3>
-						<span>shubhamsindhu2712@gmail.com</span>
+						<span>Prachi2712@gmail.com</span>
 					</div>
 					<div class="contact-info-box hours clearfix">
 						<h3><i class="fa fa-clock-o"></i>Hours:</h3>

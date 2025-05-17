@@ -50,9 +50,9 @@
 		<!--header-start-->
 		<div class="container">
 			<figure class="logo animated fadeInDown delay-07s">
-				<a href="#"><img src="img/policelogo.png" alt=""></a>
+				<a href="#"><img src="img/police.png" alt=""></a>
 			</figure>
-			<h2 style="color: white;"><b>HARYANA  POLICE</b></h2>
+			<h2 style="color: white;"><b>Bengaluru  POLICE</b></h2>
 			<div class="container mt-5 mb-5">
   	     <div class="">
             <div class="row mt-5">
@@ -61,29 +61,31 @@
                 <form method="" id="signup-form" class="signup-form">
                     <h2 class="text-center mt-5 text-white">Challan Details </h2>
                     <div class="form-group mt-5">
-                      <label  class="mr-5"><span><h3 class="text-white">Challan name</h3></span>
+                      <label  class="mr-5"><span><h3 class="text-white"> No Helmet</h3></span>
                       </label>
-                      <input type="checkbox" class="ctype" name="vname" value="5000" cname='Challan name' />
+                      <input type="checkbox" class="ctype" name="vname" value="500" cname='No Helmet' />
                     </div>
-                    <div class="form-group mt-4">
-                      <label  class="mr-5"><span><h3 class="text-white">Challan name</h3></span>
+					<div class="form-group mt-4">
+                      <label  class="mr-5"><span><h3 class="text-white">Drunk Driving</h3></span>
                       </label>
-                      <input type="checkbox" class="ctype" name="vname" value="5000" cname='Challan name' />
+                      <input type="checkbox" class="ctype" name="vname" value="10000" cname='Drunk Driving' />
                     </div>
-                    <div class="form-group mt-4">
-                      <label  class="mr-5"><span><h3 class="text-white">Challan name</h3></span>
+					<div class="form-group mt-4">
+                      <label  class="mr-5"><span><h3 class="text-white">Invalid Insurance</h3></span>
                       </label>
-                      <input type="checkbox" class="ctype" name="vname" value="5000" cname='Challan name' />
+                      <input type="checkbox" class="ctype" name="vname" value="2000" cname='No Vehicle Insurance' />
                     </div>
+                    
                     <div class="form-group mt-4">
-                      <label  class="mr-5"><span><h3 class="text-white">Challan name</h3></span>
+                      <label  class="mr-5"><span><h3 class="text-white">Red Light Violation</h3></span>
                       </label>
-                      <input type="checkbox" class="ctype" name="vname" value="5000" cname='Challan name' />
+                      <input type="checkbox" class="ctype" name="vname" value="1000" cname='Red Light Violation' />
                     </div>
+                    
                     <div class="form-group mt-4">
-                      <label  class="mr-5"><span><h3 class="text-white">Challan name</h3></span>
+                      <label  class="mr-5"><span><h3 class="text-white">Driving Without License</h3></span>
                       </label>
-                      <input type="checkbox" class="ctype" name="vname" value="5000" cname='Challan name' />
+                      <input type="checkbox" class="ctype" name="vname" value="5000" cname='Driving Without License' />
                     </div>
                     
                     <div class="form-group mt-5">
@@ -188,7 +190,7 @@
 					</div>
 					<div class="contact-info-box email clearfix">
 						<h3><i class="fa fa-pencil"></i>email:</h3>
-						<span>shubhamsindhu2712@gmail.com</span>
+						<span>Prachi2712@gmail.com</span>
 					</div>
 					<div class="contact-info-box hours clearfix">
 						<h3><i class="fa fa-clock-o"></i>Hours:</h3>

@@ -70,8 +70,8 @@ CREATE TABLE `u_info` (
 
 INSERT INTO `u_info` (`uid`, `pid`, `name`, `adds`, `pno`, `aids`, `email`, `challandate`) VALUES
 (1, 1, 'Rajesh', 'dbit', '72772772', '1717177177', 'rajesh@gmail.com', '2019-11-21'),
-(2, 1, 'hugfhh', 'fuiuiiu', '46789', '866878', 'shubhamsindhu2712@gmail.com', '2019-11-21'),
-(3, 1, 'hjkgh', 'ghk', '567790', '56789', 'shubhamsindhu2712@gmail.com', '2019-11-21'),
+(2, 1, 'hugfhh', 'fuiuiiu', '46789', '866878', 'Prachi2712@gmail.com', '2019-11-21'),
+(3, 1, 'hjkgh', 'ghk', '567790', '56789', 'Prachi2712@gmail.com', '2019-11-21'),
 (4, 2, 'mith', 'rmg', '5522', '2565', 'mith41@gmial.com', '2019-11-21');
 
 -- --------------------------------------------------------

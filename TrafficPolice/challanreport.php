@@ -50,9 +50,9 @@
 		<!--header-start-->
 		<div class="container">
 			<figure class="logo animated fadeInDown delay-07s">
-				<a href="#"><img src="img/policelogo.png" alt=""></a>
+				<a href="#"><img src="img/police.png" alt=""></a>
 			</figure>
-			<h2 style="color: white;"><b>HARYANA  POLICE</b></h2>
+			<h2 style="color: white;"><b>Bengaluru  POLICE</b></h2>
 <div id="challanreport" class="container">
     <div class="row">
       <div class="col-md-3"></div>
@@ -64,7 +64,7 @@
           <div class="card-body bg-info">
             <form>
              <div class="form-group">
-                   <h3 class="form-input form-control">Date  :  <input type="date" class="form-input" id="pdate"/> </h3>
+                   <h3 class="form-input form-control">Date  :  <input type="date" class="form-input" id="pdate" name="violation_date" max="<?php echo date('Y-m-d'); ?>" required> </h3>
                       
              </div>
             </form>
@@ -136,7 +136,7 @@
 					</div>
 					<div class="contact-info-box email clearfix">
 						<h3><i class="fa fa-pencil"></i>email:</h3>
-						<span>shubhamsindhu2712@gmail.com</span>
+						<span>Prachi2712@gmail.com</span>
 					</div>
 					<div class="contact-info-box hours clearfix">
 						<h3><i class="fa fa-clock-o"></i>Hours:</h3>
